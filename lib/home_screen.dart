@@ -91,7 +91,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                     ),
                     InkWell(
                       onTap: () {
-                        print('Clicked');
+                        print('Cli');
                       },
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
