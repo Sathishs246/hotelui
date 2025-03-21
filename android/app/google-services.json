@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452325833256",
+    "project_id": "hotelui-6dfc9",
+    "storage_bucket": "hotelui-6dfc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452325833256:android:74d154a96d5a2a43a8531d",
+        "android_client_info": {
+          "package_name": "com.example.hotelui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcEJs_Y44g3QtcZHz98ZBa8e4B9nmK2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
